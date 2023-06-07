@@ -5,7 +5,11 @@
     </div>
     
     <div>
-        <p>This used to be a portfolio page displaying old work from 2021. The page no longer does that or even is. Indeed, it, the blog, is not right now, for an unfinished, under construction blog is not a thing, but the beginning of one.</p>
-        <p>Roland is now building his own blog site using SvelteKit in his spare time because he likes SvelteKit and likes writing.</p>
+        <p>This used to be a portfolio page displaying old work from 2021. The page is becoming a blog instead.</p>
+    </div>
+    <div>
+            <p>Until it's done, you can access exclusive and advanced access to his writing samples by requesting them directly.</p>
+        <p>Best,</p>
+        <p>Roland</p>
     </div>
 </div>
