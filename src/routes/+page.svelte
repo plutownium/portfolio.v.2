@@ -44,11 +44,21 @@
         background-color: #E8F3F3;
     }
 
-    .beautiful-text-color {
-        color: #232323;
-    }
+   
 
     .mysteriously-thin-column {
         width: 400px;
+    }
+
+    @media screen and (max-width: 600px) {
+
+        .mysteriously-thin-column {
+            max-width: 95%;
+        }
+
+        h1 {
+            font-size: 24px;
+        }
+
     }
 </style>
