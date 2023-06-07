@@ -1,15 +1,54 @@
-<h1>Under Construction :-)</h1>
-<div>
-    <div>
-        <p>"If Rome was built in a day, we would've hired the same contractor!" - A funny sign at a construction site.</p>
-    </div>
-    
-    <div>
-        <p>This used to be a portfolio page displaying old work from 2021. The page is becoming a blog instead.</p>
-    </div>
-    <div>
-            <p>Until it's done, you can access exclusive and advanced access to his writing samples by requesting them directly.</p>
-        <p>Best,</p>
-        <p>Roland</p>
+<div class="centering-tool beautiful-off-white-background">
+    <h1>Under Construction</h1>
+    <div class="mysteriously-thin-column">
+        <div>
+            <p>A sign at a construction site reads: "If Rome was built in a day, we would've hired the same contractor!"</p>
+        </div>
+        
+        <div>
+            <p>This used to display an old work portfolio from 2021. The page is now becoming a blog instead.</p>
+        </div>
+        <div>
+            <p>Until it's done, you can access exclusive and advanced access to Roland's writing samples by requesting them directly from him.</p>
+            <p>Best,</p>
+            <p>The author</p>
+        </div>
     </div>
 </div>
+
+<style>
+	/* Write your CSS here */
+
+    :global(body) {
+        background-color: #E8F3F3;
+
+    }
+
+    p {
+        font-size: 15px;
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    h1 {
+        font-family: 'Courier New', Courier, monospace;
+    }
+    .centering-tool {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .beautiful-off-white-background {
+        background-color: #E8F3F3;
+    }
+
+    .beautiful-text-color {
+        color: #232323;
+    }
+
+    .mysteriously-thin-column {
+        width: 400px;
+    }
+</style>
