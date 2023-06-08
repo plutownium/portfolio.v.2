@@ -2,11 +2,11 @@
     <h1>Under Construction</h1>
     <div class="mysteriously-thin-column">
         <div>
-            <p>A sign at a construction site reads: "If Rome was built in a day, we would've hired the same contractor!"</p>
+            <p>A sign at a construction site read: <br/>"If Rome was built in a day, we would've hired the same contractor!"</p>
         </div>
         
         <div>
-            <p>This used to display an old work portfolio from 2021. The page is now becoming a blog instead.</p>
+            <p>This page was used to display an old work portfolio from 2021. The page is now becoming a blog instead.</p>
         </div>
         <div>
             <p>Until it's done, you can access exclusive and advanced access to Roland's writing samples by requesting them directly from him.</p>
